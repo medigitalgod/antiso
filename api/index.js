@@ -14,8 +14,10 @@ const path = require("path");
 dotenv.config();
 
 mongoose.connect(
-  process.env.MONGO_URL,
-  { useNewUrlParser: true, useUnifiedTopology: true },
+  "mongodb+srv://brocodeadvice:Abcd1234@antisocial.o0ccvxy.mongodb.net/?retryWrites=true&w=majority&appName=antisocial",
+  { useNewUrlParser: true, 
+    useUnifiedTopology: true,
+    useCreateIndex: true },
   () => {
     console.log("Connected to MongoDB");
   }
