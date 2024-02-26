@@ -7,7 +7,6 @@ Built with MERN (MongoDB, ExpressJS, React and Node.js) for practice purposes.
 ## Installation
 
 Clone the repo
-`git clone https://github.com/oriesh/or-social-media.git`
 
 Make sure you have `npm` installed.
 
