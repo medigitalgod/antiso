@@ -33,9 +33,9 @@ export default function Register() {
     <div className="login">
       <div className="loginWrapper">
         <div className="loginLeft">
-          <h3 className="loginLogo">OrSocial</h3>
+          <h3 className="loginLogo">Anti-Social</h3>
           <span className="loginDesc">
-            Connect with friends and the world around you on OrSocial.
+            Connect with friends and the world around you on Anti-Social.
           </span>
         </div>
         <div className="loginRight">

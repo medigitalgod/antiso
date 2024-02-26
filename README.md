@@ -1,14 +1,8 @@
-## Full Stack Social Media App
-
-This is a full stack social media app, inspired by Facebook.
+Full Stack Social Media App
 
 Built with MERN (MongoDB, ExpressJS, React and Node.js) for practice purposes.
 
 <img src="./screenshots/feed.png" width="800" height="auto"></img>
-
-## Credits
-
-This is part of a 9 hour series on YouTube, created by `Lama Dev`, check out his channel for amazing educational content!
 
 ## Installation
 
